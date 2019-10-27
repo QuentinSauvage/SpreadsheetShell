@@ -1,0 +1,1 @@
+1:2:3:=somme(l1c1,l1c3)@4:=[l1c4]:7:=moyenne(l2c1,l2c3)@calcul1.txt@=+(l1c2,size(l3c1)):=shell(expr 12 + 89):/bin/ls:=/(l1c1,l2c4)
